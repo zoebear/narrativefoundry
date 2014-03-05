@@ -1,0 +1,19 @@
+/* 
+Theme Name: 		Matheson
+URI: 						http://example.com/boldr-lite/
+Description:		Matheson Child Theme
+Author: 				Vicky, Kent and Zoe 
+Author URI:			http://www.narrativefoundry.com
+Template: 			matheson
+Version:				1.0.0
+Tags: 					
+Text Domain: 		matheson-child
+*/
+
+@import url("../matheson/style.css");
+
+*, *:before, *:after {
+  -webkit-box-sizing: border-box; 
+  -moz-box-sizing: border-box; 
+  box-sizing: border-box;
+}
